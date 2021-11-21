@@ -22,11 +22,12 @@
 
 counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙해져보세요. 아래의 간단한 기능을 구현하면 쉽게 Cypress도구를 사용해보실 수 있습니다.
 
-- [ ] 생성시 버튼과 초기값(10)을 렌더링 한다.
-- [ ] - 버튼을 클릭 시 count가 1증가한다.
-- [ ] - 버튼을 클릭 시 count가 1감소한다.
-- [ ] - 버튼을 눌렀을 때 count가 12가 넘는 경우 더이상 증가하지 못한다. (Max 값이 12)
-- [ ] - 버튼을 눌렀을 때 count는 8보다 작아지는 경우 감소하지 못한다. (Min 값이 8)
+- [ ] 버튼을 클릭 시 count가 1증가한다.
+- [ ] 버튼을 클릭 시 count가 1감소한다.
+- [ ] 버튼을 눌렀을 때 count가 10이 넘는 경우 더이상 증가하지 못한다. (Max 값이 10)
+  - [ ] 카운터의 값이 10인 경우 +버튼에 disabled 속성을 추가한다.
+- [ ] - 버튼을 눌렀을 때 count는 0보다 작아지는 경우 감소하지 못한다. (Min 값이 0)
+  - [ ] 카운터의 값이 0인 경우 -버튼에 disabled 속성을 추가한다.
 
 # 🌡️ 실습: Cypress 설치 및 사용
 
@@ -55,10 +56,10 @@ npm install cypress
 
 ## 🐞 Bug Report
 
-버그를 발견한다면, [Issues](https://github.com/imakerjun/cypress-basic/issues)에 등록해주세요.
+버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/js-counter/issues)에 등록해주세요.
 
 <br>
 
 ## 📝 License
 
-This project is [MIT](https://github.com/imakerjun/cypress-basic/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/blackcoffee-study/js-counter/blob/main/LICENSE) licensed.
