@@ -2,7 +2,7 @@
 <br/>
 
 <p align="middle" >
-  <img width="100px;" src="src/images/counter_icon.png"/>
+  <img width="100;" src="src/images/counter_icon.png"/>
 </p>
 <h2 align="middle">UI Counter</h2>
 <p align="middle">Cypress를 익혀보기 위한 초간단 미션</p>
@@ -31,8 +31,8 @@ counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙�
 # 🌡️ 실습: Cypress 설치 및 사용
 
 ```light
-npm install
-cypress open
+npm install cypress
+./node_modules/.bin/cypress open
 ```
 
 ## 결과 확인

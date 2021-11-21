@@ -1,11 +1,20 @@
 {
-  "name": "cypress-basic",
+  "name": "js-counter",
   "version": "1.0.0",
+  "description": "<br/> <br/>",
   "main": "index.js",
-  "repository": "https://imakerjun@github.com/imakerjun/cypress-basic.git",
-  "author": "im1 <im1@woowahan.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "cypress": "^6.2.1"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackcoffee-study/js-counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackcoffee-study/js-counter/issues"
+  },
+  "homepage": "https://github.com/blackcoffee-study/js-counter#readme"
 }
