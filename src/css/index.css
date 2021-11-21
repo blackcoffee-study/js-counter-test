@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: #fafafa;
 }
@@ -15,6 +16,7 @@ body {
   align-items: center;
   justify-content: center;
 }
+
 .title {
   font-weight: bold;
   color: #333;
