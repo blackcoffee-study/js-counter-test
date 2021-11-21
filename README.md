@@ -17,7 +17,7 @@
 ## 🔥 Projects!
 
 <p align="middle">
-  <img width="300" src="src/images/ui_counter.jpg">
+  <img width="400" src="src/images/ui_counter.jpg">
 </p>
 
 counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙해져보세요. 아래의 간단한 기능을 구현하면 쉽게 Cypress도구를 사용해보실 수 있습니다.
