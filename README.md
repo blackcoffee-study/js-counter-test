@@ -31,7 +31,7 @@ counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙�
 # 🌡️ 실습: Cypress 설치 및 사용
 
 ```light
-yarn install or npm install
+npm install
 cypress open
 ```
 
@@ -47,7 +47,7 @@ cypress open
 
 ![Screen Shot 2018-11-23 at 6.50.33 PM (1).png](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/07b4dac1582c4e6a9f2a908b25a8e8e2)
 
-## 👏 Contributing
+## 👏🏼 Contributing
 
 만약 미션 수행 중에 개선사항이 보인다면, 언제든 자유롭게 PR을 보내주세요.
 
