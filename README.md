@@ -37,10 +37,10 @@ counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙�
 
 ## 🐞 Bug Report
 
-버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/js-counter/issues)에 등록해주세요.
+버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/js-counter-test/issues)에 등록해주세요.
 
 <br>
 
 ## 📝 License
 
-This project is [MIT](https://github.com/blackcoffee-study/js-counter/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/blackcoffee-study/js-counter-test/blob/main/LICENSE) licensed.
