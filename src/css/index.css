@@ -47,7 +47,6 @@ button {
 .add:hover,
 .rest:hover {
   background-color: #333;
-
   cursor: pointer;
   color: #f7fff7;
 }
@@ -59,6 +58,5 @@ button {
 .reset:hover {
   background-color: #333;
   color: #f7fff7;
-
   cursor: pointer;
 }
