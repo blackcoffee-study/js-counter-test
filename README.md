@@ -5,7 +5,7 @@
   <img width="100;" src="src/images/counter_icon.png"/>
 </p>
 <h2 align="middle">UI Counter</h2>
-<p align="middle">Cypress를 익혀보기 위한 초간단 미션</p>
+<p align="middle">테스트 코드 작성을 연습하기 위한 초간단 Counter 미션</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
@@ -23,30 +23,11 @@
 counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙해져보세요. 아래의 간단한 기능을 구현하면 쉽게 Cypress도구를 사용해보실 수 있습니다.
 
 - [ ] counter의 초기값은 0이다.
-- [ ] + 버튼을 클릭 시 count가 1증가한다.
+- [ ] - 버튼을 클릭 시 count가 1증가한다.
 - [ ] - 버튼을 클릭 시 count가 1감소한다.
-- [ ] + 버튼을 눌렀을 때 count가 10이 넘는 경우 더이상 증가하지 못한다. (Max 값이 10)
+- [ ] - 버튼을 눌렀을 때 count가 10이 넘는 경우 더이상 증가하지 못한다. (Max 값이 10)
 - [ ] - 버튼을 눌렀을 때 count는 0보다 작아지는 경우 감소하지 못한다. (Min 값이 0)
 - [ ] reset 버튼을 누르면 counter가 0으로 초기화된다.
-
-# 🌡️ 실습: Cypress 설치 및 사용
-
-```light
-npm install cypress
-./node_modules/.bin/cypress open
-```
-
-## 결과 확인
-
-![Screen Shot 2018-11-23 at 6.48.56 PM (1).png](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/37e4a2bdb4564fd996fd8c1235057d59)
-
-## 실행 화면
-
-![Screen Shot 2018-11-23 at 6.49.52 PM (1).png](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/751848b6474941669abf18146b2e6a33)
-
-## 액션 로그
-
-![Screen Shot 2018-11-23 at 6.50.33 PM (1).png](https://nextstep-storage.s3.ap-northeast-2.amazonaws.com/07b4dac1582c4e6a9f2a908b25a8e8e2)
 
 ## 👏🏼 Contributing
 
@@ -56,10 +37,10 @@ npm install cypress
 
 ## 🐞 Bug Report
 
-버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/js-counter/issues)에 등록해주세요.
+버그를 발견한다면, [Issues](https://github.com/blackcoffee-study/js-counter-test/issues)에 등록해주세요.
 
 <br>
 
 ## 📝 License
 
-This project is [MIT](https://github.com/blackcoffee-study/js-counter/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/blackcoffee-study/js-counter-test/blob/main/LICENSE) licensed.
