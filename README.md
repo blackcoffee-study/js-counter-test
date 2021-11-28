@@ -20,14 +20,18 @@
   <img width="400" src="src/images/ui_counter.jpg">
 </p>
 
+<p align="middle">
+  <a href="https://blackcoffee-study.github.io/js-counter-test/">🖥️ 데모 링크</a>
+</p>
+
 counter라는 간단한 미션을 통해서 Cypress라는 E2E 도구에 익숙해져보세요. 아래의 간단한 기능을 구현하면 쉽게 Cypress도구를 사용해보실 수 있습니다.
 
 - [ ] counter의 초기값은 0이다.
-- [ ] - 버튼을 클릭 시 count가 1증가한다.
+- [ ] + 버튼을 클릭 시 count가 1증가한다.
 - [ ] - 버튼을 클릭 시 count가 1감소한다.
-- [ ] - 버튼을 눌렀을 때 count가 10이 넘는 경우 더이상 증가하지 못한다. (Max 값이 10)
-- [ ] - 버튼을 눌렀을 때 count는 0보다 작아지는 경우 감소하지 못한다. (Min 값이 0)
-- [ ] reset 버튼을 누르면 counter가 0으로 초기화된다.
+- [ ] + 버튼을 클릭 시 count가 10이 넘는 경우 더이상 증가하지 못한다. (Max 값이 10)
+- [ ] - 버튼을 클릭 시 count가 0보다 작아지는 경우 감소하지 못한다. (Min 값이 0)
+- [ ] reset 버튼을 클릭 시 counter가 0으로 초기화된다.
 
 ## 👏🏼 Contributing
 
